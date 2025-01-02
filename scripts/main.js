@@ -5659,7 +5659,7 @@
   };
   self.RuntimeInterface.AddDOMHandlerClass(HANDLER_CLASS);
 }
-
+/*
 document.addEventListener("DOMContentLoaded", function () {
   const videoSrc = "images/VN20241230_173139.mp4"; // Directly set the video source
   const audioSrc = "images/audio.mp3"; // Directly set the audio source
@@ -5718,3 +5718,4 @@ function startGame() {
   // Your game initialization code here
   console.log("Game has started!");
 }
+*/
